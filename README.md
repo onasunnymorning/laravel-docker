@@ -1,2 +1,2 @@
 # laravel-docker
-dockerized laravel api
+dockerized laravel app base
